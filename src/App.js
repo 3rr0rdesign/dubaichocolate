@@ -26,7 +26,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     font-family: "Helvetica Neue", Arial, sans-serif;
     background: linear-gradient(180deg, #5c3d2e, #fefae0); /* chocolate gradient */
-    color: #2f4f2f;
+    color: #5c3d2e;
     overflow: hidden;
     -webkit-overflow-scrolling: none;
     touch-action: none; /* prevent buggy scrolling/tap issues */
