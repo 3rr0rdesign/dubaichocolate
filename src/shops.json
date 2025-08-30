@@ -1,0 +1,563 @@
+[
+  {
+    "name": "Süleymaniye Çikolatacısı",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0165,
+    "lng": 28.9634,
+    "mapsUrl": "https://www.google.com/maps?q=41.0165,28.9634"
+  },
+  {
+    "name": "Moda Çikolatacısı",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9819,
+    "lng": 29.0275,
+    "mapsUrl": "https://www.google.com/maps?q=40.9819,29.0275"
+  },
+  {
+    "name": "Chocolate Sarayı (Beşiktaş)",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0430,
+    "lng": 29.0045,
+    "mapsUrl": "https://www.google.com/maps?q=41.0430,29.0045"
+  },
+  {
+    "name": "Chocolatier Aziz Bey",
+    "address": "Üsküdar, İstanbul, Türkiye",
+    "lat": 41.0287,
+    "lng": 29.0212,
+    "mapsUrl": "https://www.google.com/maps?q=41.0287,29.0212"
+  },
+  {
+    "name": "Ceviz Ağacı",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9861,
+    "lng": 29.0270,
+    "mapsUrl": "https://www.google.com/maps?q=40.9861,29.0270"
+  },
+  {
+    "name": "Beyoğlu Çikolata Fabrika Satış Mağazası",
+    "address": "Avcılar, İstanbul, Türkiye",
+    "lat": 40.9790,
+    "lng": 28.7220,
+    "mapsUrl": "https://www.google.com/maps?q=40.9790,28.7220"
+  },
+  {
+    "name": "Hafiz Mustafa 1864 (Fatih)",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0129,
+    "lng": 28.9703,
+    "mapsUrl": "https://www.google.com/maps?q=41.0129,28.9703"
+  },
+  {
+    "name": "Hafız Mustafa 1864 İstiklal",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0369,
+    "lng": 28.9850,
+    "mapsUrl": "https://www.google.com/maps?q=41.0369,28.9850"
+  },
+  {
+    "name": "Bolçi",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0370,
+    "lng": 28.9860,
+    "mapsUrl": "https://www.google.com/maps?q=41.0370,28.9860"
+  },
+  {
+    "name": "ZEYN Chocolate İstanbul",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9872,
+    "lng": 29.0348,
+    "mapsUrl": "https://www.google.com/maps?q=40.9872,29.0348"
+  },
+  {
+    "name": "Çikolata Evim Beylikdüzü",
+    "address": "Büyükçekmece, İstanbul, Türkiye",
+    "lat": 41.0201,
+    "lng": 28.5745,
+    "mapsUrl": "https://www.google.com/maps?q=41.0201,28.5745"
+  },
+  {
+    "name": "Tarihi Meşhur Beyoğlu Çikolatacısı",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0333,
+    "lng": 28.9789,
+    "mapsUrl": "https://www.google.com/maps?q=41.0333,28.9789"
+  },
+  {
+    "name": "BOLÇİ ÇİKOLATA LALELİ",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0150,
+    "lng": 28.9525,
+    "mapsUrl": "https://www.google.com/maps?q=41.0150,28.9525"
+  },
+  {
+    "name": "Hane Çikolata & Kahve Beşiktaş Çarşı",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0428,
+    "lng": 29.0019,
+    "mapsUrl": "https://www.google.com/maps?q=41.0428,29.0019"
+  },
+  {
+    "name": "La Vie Praline Akaretler",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0417,
+    "lng": 29.0095,
+    "mapsUrl": "https://www.google.com/maps?q=41.0417,29.0095"
+  },
+  {
+    "name": "Melodi Çikolata (Şişli)",
+    "address": "Şişli, İstanbul, Türkiye",
+    "lat": 41.0570,
+    "lng": 28.9870,
+    "mapsUrl": "https://www.google.com/maps?q=41.0570,28.9870"
+  },
+  {
+    "name": "Factory Karaköy",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0245,
+    "lng": 28.9768,
+    "mapsUrl": "https://www.google.com/maps?q=41.0245,28.9768"
+  },
+  {
+    "name": "La Vie Praline (Beşiktaş)",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0410,
+    "lng": 29.0090,
+    "mapsUrl": "https://www.google.com/maps?q=41.0410,29.0090"
+  },
+  {
+    "name": "Bolçi Taksim",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0369,
+    "lng": 28.9856,
+    "mapsUrl": "https://www.google.com/maps?q=41.0369,28.9856"
+  },
+  {
+    "name": "Kadıköy Çikolatacısı",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9905,
+    "lng": 29.0273,
+    "mapsUrl": "https://www.google.com/maps?q=40.9905,29.0273"
+  },
+  {
+    "name": "Qubish Chocolate",
+    "address": "Üsküdar, İstanbul, Türkiye",
+    "lat": 41.0255,
+    "lng": 29.0205,
+    "mapsUrl": "https://www.google.com/maps?q=41.0255,29.0205"
+  },
+  {
+    "name": "Historic Golden Chocolate",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0169,
+    "lng": 28.9605,
+    "mapsUrl": "https://www.google.com/maps?q=41.0169,28.9605"
+  },
+  {
+    "name": "Dubai Chocolate İstanbul",
+    "address": "Zeytinburnu, İstanbul, Türkiye",
+    "lat": 40.9982,
+    "lng": 28.9157,
+    "mapsUrl": "https://www.google.com/maps?q=40.9982,28.9157"
+  },
+  {
+    "name": "Are You Chocolate Beşiktaş",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0425,
+    "lng": 29.0078,
+    "mapsUrl": "https://www.google.com/maps?q=41.0425,29.0078"
+  },
+  {
+    "name": "Çikolata Evim Bahçeşehir",
+    "address": "Başakşehir, İstanbul, Türkiye",
+    "lat": 41.0740,
+    "lng": 28.6885,
+    "mapsUrl": "https://www.google.com/maps?q=41.0740,28.6885"
+  },
+  {
+    "name": "Marie Antoinette Chocolatier",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0444,
+    "lng": 29.0041,
+    "mapsUrl": "https://www.google.com/maps?q=41.0444,29.0041"
+  },
+  {
+    "name": "Chocolate Sarayı Çengelköy",
+    "address": "Üsküdar, İstanbul, Türkiye",
+    "lat": 41.0440,
+    "lng": 29.0555,
+    "mapsUrl": "https://www.google.com/maps?q=41.0440,29.0555"
+  },
+  {
+    "name": "VARINA Chocolate",
+    "address": "Başakşehir, İstanbul, Türkiye",
+    "lat": 41.0943,
+    "lng": 28.8028,
+    "mapsUrl": "https://www.google.com/maps?q=41.0943,28.8028"
+  },
+  {
+    "name": "Hafız Mustafa (Fatih)",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0128,
+    "lng": 28.9680,
+    "mapsUrl": "https://www.google.com/maps?q=41.0128,28.9680"
+  },
+  {
+    "name": "Glories Chocolate",
+    "address": "Cumhuriyet mah., İstanbul, Türkiye",
+    "lat": 41.0645,
+    "lng": 28.9901,
+    "mapsUrl": "https://www.google.com/maps?q=41.0645,28.9901"
+  },
+  {
+    "name": "Elit Çikolata ve Şekerleme",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0175,
+    "lng": 28.9499,
+    "mapsUrl": "https://www.google.com/maps?q=41.0175,28.9499"
+  },
+  {
+    "name": "Hane Çikolata & Kahve Moda",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9875,
+    "lng": 29.0282,
+    "mapsUrl": "https://www.google.com/maps?q=40.9875,29.0282"
+  },
+  {
+    "name": "Perla Çikolata",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0125,
+    "lng": 28.9471,
+    "mapsUrl": "https://www.google.com/maps?q=41.0125,28.9471"
+  },
+  {
+    "name": "Death By Chocolate",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0421,
+    "lng": 29.0080,
+    "mapsUrl": "https://www.google.com/maps?q=41.0421,29.0080"
+  },
+  {
+    "name": "Taze Çikolata",
+    "address": "Kağıthane, İstanbul, Türkiye",
+    "lat": 41.0715,
+    "lng": 28.9850,
+    "mapsUrl": "https://www.google.com/maps?q=41.0715,28.9850"
+  },
+  {
+    "name": "Ülker Shop",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0145,
+    "lng": 28.9599,
+    "mapsUrl": "https://www.google.com/maps?q=41.0145,28.9599"
+  },
+  {
+    "name": "Hafız Mustafa 1864 Meydan",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0349,
+    "lng": 28.9780,
+    "mapsUrl": "https://www.google.com/maps?q=41.0349,28.9780"
+  },
+  {
+    "name": "3 Chocolate",
+    "address": "Sarıyer, İstanbul, Türkiye",
+    "lat": 41.1680,
+    "lng": 29.0495,
+    "mapsUrl": "https://www.google.com/maps?q=41.1680,29.0495"
+  },
+  {
+    "name": "Dubbai 1971",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0135,
+    "lng": 28.9531,
+    "mapsUrl": "https://www.google.com/maps?q=41.0135,28.9531"
+  },
+  {
+    "name": "Golden Chocolate",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9915,
+    "lng": 29.0360,
+    "mapsUrl": "https://www.google.com/maps?q=40.9915,29.0360"
+  },
+  {
+    "name": "Zambo Gıda Eminönü",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0178,
+    "lng": 28.9695,
+    "mapsUrl": "https://www.google.com/maps?q=41.0178,28.9695"
+  },
+  {
+    "name": "Gallant Galata",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0241,
+    "lng": 28.9732,
+    "mapsUrl": "https://www.google.com/maps?q=41.0241,28.9732"
+  },
+  {
+    "name": "Harem Chocolate (Şişli)",
+    "address": "Şişli, İstanbul, Türkiye",
+    "lat": 41.0595,
+    "lng": 28.9878,
+    "mapsUrl": "https://www.google.com/maps?q=41.0595,28.9878"
+  },
+  {
+    "name": "Godiva (Trump Towers Şişli)",
+    "address": "Şişli, İstanbul, Türkiye",
+    "lat": 41.0655,
+    "lng": 28.9941,
+    "mapsUrl": "https://www.google.com/maps?q=41.0655,28.9941"
+  },
+  {
+    "name": "Çikolata Sepeti",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9859,
+    "lng": 29.0279,
+    "mapsUrl": "https://www.google.com/maps?q=40.9859,29.0279"
+  },
+  {
+    "name": "Factory Karaköy (Beşiktaş)",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0428,
+    "lng": 29.0070,
+    "mapsUrl": "https://www.google.com/maps?q=41.0428,29.0070"
+  },
+  {
+    "name": "Hafız Mustafa 1864 Beyazıt",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0109,
+    "lng": 28.9598,
+    "mapsUrl": "https://www.google.com/maps?q=41.0109,28.9598"
+  },
+  {
+    "name": "Confectioner Cafer Erol",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9897,
+    "lng": 29.0271,
+    "mapsUrl": "https://www.google.com/maps?q=40.9897,29.0271"
+  },
+  {
+    "name": "Viyana Kahvesi Galata",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0249,
+    "lng": 28.9740,
+    "mapsUrl": "https://www.google.com/maps?q=41.0249,28.9740"
+  },
+  {
+    "name": "Harem Chocolate (Kadıköy)",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9877,
+    "lng": 29.0309,
+    "mapsUrl": "https://www.google.com/maps?q=40.9877,29.0309"
+  },
+  {
+    "name": "Viyana Kahvesi",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0311,
+    "lng": 28.9769,
+    "mapsUrl": "https://www.google.com/maps?q=41.0311,28.9769"
+  },
+  {
+    "name": "Hafiz Mustafa 1864 Eminönü",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0168,
+    "lng": 28.9712,
+    "mapsUrl": "https://www.google.com/maps?q=41.0168,28.9712"
+  },
+  {
+    "name": "Chocolate Workshop",
+    "address": "Üsküdar/Bağlarbaşı, İstanbul, Türkiye",
+    "lat": 41.0221,
+    "lng": 29.0342,
+    "mapsUrl": "https://www.google.com/maps?q=41.0221,29.0342"
+  },
+  {
+    "name": "Chocolatier from Tatlis",
+    "address": "Bakırköy, İstanbul, Türkiye",
+    "lat": 40.9789,
+    "lng": 28.8725,
+    "mapsUrl": "https://www.google.com/maps?q=40.9789,28.8725"
+  },
+  {
+    "name": "Chicolatte",
+    "address": "Üsküdar, İstanbul, Türkiye",
+    "lat": 41.0275,
+    "lng": 29.0331,
+    "mapsUrl": "https://www.google.com/maps?q=41.0275,29.0331"
+  },
+  {
+    "name": "Dubai Çikolatası (Factory)",
+    "address": "Bağcılar, İstanbul, Türkiye",
+    "lat": 41.0439,
+    "lng": 28.8565,
+    "mapsUrl": "https://www.google.com/maps?q=41.0439,28.8565"
+  },
+  {
+    "name": "WİND Çikolata",
+    "address": "Pendik, İstanbul, Türkiye",
+    "lat": 40.8742,
+    "lng": 29.2350,
+    "mapsUrl": "https://www.google.com/maps?q=40.8742,29.2350"
+  },
+  {
+    "name": "Hafız Mustafa 1864 Galataport",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0265,
+    "lng": 28.9775,
+    "mapsUrl": "https://www.google.com/maps?q=41.0265,28.9775"
+  },
+  {
+    "name": "HANSEY Chocolate & More",
+    "address": "Küçükçekmece, İstanbul, Türkiye",
+    "lat": 41.0055,
+    "lng": 28.7720,
+    "mapsUrl": "https://www.google.com/maps?q=41.0055,28.7720"
+  },
+  {
+    "name": "Wow Mix",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0340,
+    "lng": 28.9761,
+    "mapsUrl": "https://www.google.com/maps?q=41.0340,28.9761"
+  },
+  {
+    "name": "La Vie Praline Çengelköy",
+    "address": "Üsküdar, İstanbul, Türkiye",
+    "lat": 41.0423,
+    "lng": 29.0532,
+    "mapsUrl": "https://www.google.com/maps?q=41.0423,29.0532"
+  },
+  {
+    "name": "Kemal Usta Waffles",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9875,
+    "lng": 29.0280,
+    "mapsUrl": "https://www.google.com/maps?q=40.9875,29.0280"
+  },
+  {
+    "name": "Hane Çikolata & Kahve Acıbadem",
+    "address": "Üsküdar, İstanbul, Türkiye",
+    "lat": 41.0051,
+    "lng": 29.0463,
+    "mapsUrl": "https://www.google.com/maps?q=41.0051,29.0463"
+  },
+  {
+    "name": "Mabel Çikolata",
+    "address": "Şişli, İstanbul, Türkiye",
+    "lat": 41.0605,
+    "lng": 28.9862,
+    "mapsUrl": "https://www.google.com/maps?q=41.0605,28.9862"
+  },
+  {
+    "name": "Cafer Erol Candy Shop Galataport",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0275,
+    "lng": 28.9769,
+    "mapsUrl": "https://www.google.com/maps?q=41.0275,28.9769"
+  },
+  {
+    "name": "Bombacı Mülayim",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9865,
+    "lng": 29.0289,
+    "mapsUrl": "https://www.google.com/maps?q=40.9865,29.0289"
+  },
+  {
+    "name": "iChocolate",
+    "address": "Sarıyer, İstanbul, Türkiye",
+    "lat": 41.1667,
+    "lng": 29.0500,
+    "mapsUrl": "https://www.google.com/maps?q=41.1667,29.0500"
+  },
+  {
+    "name": "Chocolate Deals",
+    "address": "Şişli, İstanbul, Türkiye",
+    "lat": 41.0589,
+    "lng": 28.9875,
+    "mapsUrl": "https://www.google.com/maps?q=41.0589,28.9875"
+  },
+  {
+    "name": "Louisiana Coffee & Food & Patisserie",
+    "address": "Fatih, İstanbul, Türkiye",
+    "lat": 41.0108,
+    "lng": 28.9632,
+    "mapsUrl": "https://www.google.com/maps?q=41.0108,28.9632"
+  },
+  {
+    "name": "Leonidas Nişantaşı",
+    "address": "Şişli, İstanbul, Türkiye",
+    "lat": 41.0489,
+    "lng": 28.9911,
+    "mapsUrl": "https://www.google.com/maps?q=41.0489,28.9911"
+  },
+  {
+    "name": "Lokmata",
+    "address": "Beşiktaş, İstanbul, Türkiye",
+    "lat": 41.0421,
+    "lng": 29.0078,
+    "mapsUrl": "https://www.google.com/maps?q=41.0421,29.0078"
+  },
+  {
+    "name": "Patisserie De Pera",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0319,
+    "lng": 28.9764,
+    "mapsUrl": "https://www.google.com/maps?q=41.0319,28.9764"
+  },
+  {
+    "name": "Galleria Vitavien",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0338,
+    "lng": 28.9778,
+    "mapsUrl": "https://www.google.com/maps?q=41.0338,28.9778"
+  },
+  {
+    "name": "Walton Breakfast",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0327,
+    "lng": 28.9769,
+    "mapsUrl": "https://www.google.com/maps?q=41.0327,28.9769"
+  },
+  {
+    "name": "Mari'nin Çikolata Dükkanı",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9855,
+    "lng": 29.0292,
+    "mapsUrl": "https://www.google.com/maps?q=40.9855,29.0292"
+  },
+  {
+    "name": "Viyana Kahvesi Narmanlı Han",
+    "address": "Beyoğlu, İstanbul, Türkiye",
+    "lat": 41.0335,
+    "lng": 28.9759,
+    "mapsUrl": "https://www.google.com/maps?q=41.0335,28.9759"
+  },
+  {
+    "name": "Bebekicincikolata",
+    "address": "Zeytinburnu, İstanbul, Türkiye",
+    "lat": 40.9990,
+    "lng": 28.9175,
+    "mapsUrl": "https://www.google.com/maps?q=40.9990,28.9175"
+  },
+  {
+    "name": "CandyZoo Kadıköy",
+    "address": "Kadıköy, İstanbul, Türkiye",
+    "lat": 40.9870,
+    "lng": 29.0331,
+    "mapsUrl": "https://www.google.com/maps?q=40.9870,29.0331"
+  },
+  {
+    "name": "Coffy Üsküdar Altunizade",
+    "address": "Üsküdar, İstanbul, Türkiye",
+    "lat": 41.0229,
+    "lng": 29.0581,
+    "mapsUrl": "https://www.google.com/maps?q=41.0229,29.0581"
+  },
+  {
+    "name": "Moonberry Coffee",
+    "address": "Şişli, İstanbul, Türkiye",
+    "lat": 41.0609,
+    "lng": 28.9872,
+    "mapsUrl": "https://www.google.com/maps?q=41.0609,28.9872"
+  }
+]
+
