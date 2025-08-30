@@ -39,13 +39,14 @@ const GlobalStyle = createGlobalStyle`
 `;
 
 // 📱 Floating App Title
+// 📱 Floating App Title
 const FloatingTitle = styled.div`
   position: absolute;
   top: 1rem;
   left: 50%;
   transform: translateX(-50%);
-  background: rgba(47, 79, 47, 0.9);
-  color: white;
+  background: rgba(78, 42, 21, 0.9); /* chocolate brown */
+  color: #fff8f0; /* softer off-white for text */
   padding: 0.6rem 1.2rem;
   border-radius: 16px;
   font-size: 1.1rem;
@@ -53,6 +54,7 @@ const FloatingTitle = styled.div`
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
   z-index: 1000;
 `;
+
 
 // 🗺️ Map wrapper with rounded corners
 const MapWrapper = styled.div`
@@ -106,7 +108,7 @@ function App() {
   return (
     <>
       <GlobalStyle />
-      <FloatingTitle>🍫 Dubai Chocolate Map 🌿</FloatingTitle>
+      <FloatingTitle>Chocolate Scanner</FloatingTitle>
 
       <MapWrapper>
         <MapContainer
