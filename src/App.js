@@ -14,15 +14,27 @@ const chocolateIcon = L.divIcon({
   popupAnchor: [0, -48],
 });
 
-// 🌿 Global styles
+// 🌿 Global styles + mobile fixes
 const GlobalStyle = createGlobalStyle`
-  body {
+  html, body, #root {
     margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+  body {
     font-family: "Helvetica Neue", Arial, sans-serif;
-    background: linear-gradient(180deg, #f4fff4, #ffffff);
+    background: linear-gradient(180deg, #5c3d2e, #fefae0); /* chocolate gradient */
     color: #2f4f2f;
-    height: 100vh;
     overflow: hidden;
+    -webkit-overflow-scrolling: none;
+    touch-action: none; /* prevent buggy scrolling/tap issues */
+  }
+
+  .leaflet-container {
+    height: 100% !important;
+    width: 100% !important;
   }
 `;
 
@@ -42,37 +54,51 @@ const FloatingTitle = styled.div`
   z-index: 1000;
 `;
 
-// 🗺️ Map wrapper
+// 🗺️ Map wrapper with rounded corners
 const MapWrapper = styled.div`
-  flex: 1;
-  width: 100%;
-  height: 100%;
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  right: 0.5rem;
+  bottom: 0.5rem;
+
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 `;
 
 // ✨ Popup styling
 const PopupContent = styled.div`
   text-align: center;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   color: #2f4f2f;
 
   b {
-    font-size: 1.05rem;
-    color: #006400;
+    display: block;
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+    color: #4e2a15;
+  }
+
+  small {
+    font-size: 0.8rem;
+    color: #555;
   }
 
   a {
     display: inline-block;
     margin-top: 0.6rem;
-    padding: 0.5rem 0.8rem;
-    background: #2f4f2f;
+    padding: 0.6rem 1rem;
+    background: #4e2a15;
     color: #fff;
-    border-radius: 10px;
+    border-radius: 12px;
     text-decoration: none;
     font-size: 0.85rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
   }
 
   a:hover {
-    background: #3b6e3b;
+    background: #63391d;
   }
 `;
 
@@ -87,6 +113,8 @@ function App() {
           center={[41.0082, 28.9784]} // Istanbul
           zoom={12}
           style={{ height: "100%", width: "100%" }}
+          zoomControl={false}
+          tap={false} // fix mobile tap bug
         >
           {/* Softer tile layer */}
           <TileLayer
@@ -98,8 +126,9 @@ function App() {
             <Marker key={i} position={[shop.lat, shop.lng]} icon={chocolateIcon}>
               <Popup>
                 <PopupContent>
-                  <b>{shop.name}</b> <br />
-                  {shop.address} <br />
+                  <b>{shop.name}</b>
+                  <small>{shop.address}</small>
+                  <br />
                   <a href={shop.mapsUrl} target="_blank" rel="noreferrer">
                     📍 Open in Maps
                   </a>
